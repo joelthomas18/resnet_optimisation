@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset
+data/
+
+# Models
+models/baseline/
+models/pruned/
+models/quantized/
+
+# Logs
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db

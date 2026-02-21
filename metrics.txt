@@ -1,0 +1,10 @@
+Before Optimisation
+
+
+| Metric                    | Value                          |
+| ------------------------- | ------------------------------ |
+| Final Training Accuracy   | **90.53%**                     |
+| Final Validation Accuracy | **91.57%**                     |
+| Final Training Loss       | 0.4343                         |
+| Final Validation Loss     | 0.3836                         |
+| Model Size                | **93.3 MB** (97,888,064 bytes) |
