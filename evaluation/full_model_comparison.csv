@@ -1,0 +1,6 @@
+Model,Accuracy,Size (MB),Accuracy Drop from Baseline
+Baseline FP32,0.9258,93.57,0
+Pruned 30%,0.9325,91.56,-0.0067
+Pruned 50%,0.9157,91.56,0.0101
+Pruned 70%,0.914,91.56,0.0118
+INT8 Quantized (50%),0.914,23.37,0.0118
