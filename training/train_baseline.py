@@ -100,4 +100,4 @@ history = model.fit(
 # SAVE MODEL
 # ==============================
 
-model.save("models/baseline/resnet18_baseline.keras")
+model.save("models/baseline/resnet_baseline.keras")
